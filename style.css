@@ -21,7 +21,9 @@
     display: inline-block;
 	}
 
-	.imgindex {}
+	.imgindex {
+		width: 15%;
+	}
 
 	#principal {}
 
