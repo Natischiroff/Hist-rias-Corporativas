@@ -10,7 +10,7 @@
 	}
 
 	p {
-		color: rgb(55, 119, 175);
+		color: rgb(243, 243, 243);
 	}
 
 	img {
@@ -27,5 +27,5 @@
 
 	ul {
 		list-style: none; /* Remove qualquer marcador */
-		
+
 	}
