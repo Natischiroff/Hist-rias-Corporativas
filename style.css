@@ -23,3 +23,8 @@
 	.imgindex {}
 
 	#principal {}
+
+
+	ul {
+		list-style: none; /* Remove qualquer marcador */
+	}
