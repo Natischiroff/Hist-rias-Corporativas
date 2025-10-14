@@ -24,8 +24,6 @@
 
 	#principal {}
 
-
-	ul {
-		list-style: none; /* Remove qualquer marcador */
-color: aliceblue;
+	ul{
+		list-style:none ;
 	}
