@@ -13,7 +13,12 @@
 		color: aliceblue;
 	}
 
-	img {}
+	img {
+		width: 25%;
+    height: auto;
+    object-fit: cover;
+    display: inline-block;
+	}
 
 	.imgindex {}
 
