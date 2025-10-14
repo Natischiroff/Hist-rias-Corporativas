@@ -1,25 +1,19 @@
 	body {
 		background-color: rgb(185, 151, 109);
-
+		font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	}
-	
-	h1{
+
+	h1 {
 		color: aliceblue;
 
 	}
 
-	p{
+	p {
 		color: aliceblue;
 	}
 
-	img{
-		
-	}
-	
-	.imgindex{
-		
-	}
-	
-	#principal {
-		
-	}
+	img {}
+
+	.imgindex {}
+
+	#principal {}
