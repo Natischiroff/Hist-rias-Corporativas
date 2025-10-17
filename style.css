@@ -35,7 +35,7 @@
 	/* tentativa de ajustes para futura responsividade*/
 	 .container-imagens {
 		display: flex;
-		flex-wrap: wrap;
+		/* flex-wrap: wrap; */
 		justify-content: space-around;
 	}
 
