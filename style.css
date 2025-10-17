@@ -1,9 +1,7 @@
 	body {
 		background-color: rgb(109, 135, 185);
 		font-family: Georgia, 'Times New Roman', Times, serif;
-		text-align: center;
-
-	}
+		text-align: center;	}
 
 	h1 {
 		color: aliceblue;
@@ -50,18 +48,18 @@
 	/* ESTILOS ESPECÍFICOS PARA CELULARES (Telas com até 768px de largura) */
 	/* ---------------------------------------------------------------- */
 	@media screen and (max-width: 768px) {
-		.container-imagens {
+		/* .container-imagens {
 			flex-direction: column;
 			align-items: center;
 		}
 
 		.container-imagens img {
 			width: 100%;
-			margin: 10px 0;
+			margin: 10px 0; */
 		}
 
 		/* 2. Ajustes Básicos no Body (opcional) */
-		body {
+		/* body {
 			padding: 0 15px;
 			font-size: 40px;
 		}
@@ -72,5 +70,5 @@
 
 		h1{
 			font-size: 40px;
-		}
+		} */
 	}
