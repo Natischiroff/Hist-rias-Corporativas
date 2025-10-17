@@ -33,7 +33,7 @@
 	}
 
 	/* tentativa de ajustes para futura responsividade*/
-	/* .container-imagens {
+	 .container-imagens {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-around;
