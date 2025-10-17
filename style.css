@@ -33,7 +33,7 @@
 	}
 
 	/* tentativa de ajustes para futura responsividade*/
-	.container-imagens {
+	/* .container-imagens {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-around;
@@ -42,7 +42,7 @@
 	.container-imagens a img {
 		width: 70%;
 		margin: 10px;
-	}
+	} */
 
 	/* ---------------------------------------------------------------- */
 	/* ESTILOS ESPECÍFICOS PARA CELULARES (Telas com até 768px de largura) */
